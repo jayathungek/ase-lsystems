@@ -1,4 +1,4 @@
-# Advanced Python programming with L-systems 
+# Python programming with L-systems 
 <p float="left">
   <img src="img/banner.png" width= "30%" />
   <img src="img/banner2.png" width="30%" />
