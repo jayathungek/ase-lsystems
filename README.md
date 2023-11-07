@@ -17,7 +17,6 @@ We will cover:
 * Functions
 * Object oriented programming
 * Test driven development
-* Commandline arguments
 
 # Add to this document!
 Feel free to keep adding to this document, perhaps with your own observations or results from experiments :)
