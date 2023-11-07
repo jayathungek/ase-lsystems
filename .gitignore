@@ -3,3 +3,5 @@
 
 *.png
 !banner*.png
+.coverage
+htmlcov

@@ -1,4 +1,4 @@
-name: fractal-trees
+name: ase-lsystems
 channels:
   - anaconda
 dependencies:
@@ -6,3 +6,4 @@ dependencies:
   - pip:
     - pillow
     - types-Pillow
+    - coverage
