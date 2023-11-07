@@ -1,0 +1,8 @@
+name: fractal-trees
+channels:
+  - anaconda
+dependencies:
+  - pip
+  - pip:
+    - pillow
+    - types-Pillow

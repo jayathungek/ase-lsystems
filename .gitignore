@@ -1,0 +1,5 @@
+.vscode
+*cache*
+
+*.png
+!banner*.png
