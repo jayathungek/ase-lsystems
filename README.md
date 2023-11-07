@@ -19,7 +19,7 @@ We will cover:
 * Test driven development
 
 # The `pen` module
-In this repository you will find a file `pen.py`, which I have included as a tool which will help us draw images of the L-systems we generate (similar to the ones in the banner of this README).
+In this repository you will find a file `pen.py`, which I have included as a tool to help us draw images of the L-systems we generate (similar to the ones in the banner of this README).
 
 You do not need to understand exactly how it works, but you will need to understand its _interface_. Think of it like driving a car: you don't need to understand how each part of the engine works, but you should understand which pedal moves the car and which one stops it!
 # Add to this document!
