@@ -6,13 +6,13 @@ from PIL import Image, ImageDraw
 
 class Pen:
     def __init__(
-        self, image_dimensions: Tuple[int, int], pen_pos: Tuple = (0, 0), width: int = 0
+        self, image_dimensions: Tuple[int, int], pen_pos: Tuple = (0, 0), width: int = 0, colour: str="#EC99B2"
     ):
         self.pos = pen_pos
         self.heading = 0.0
         self.is_down = False
         self.bg = "#4C4C4C"
-        self.colour = "#EC99B2"
+        self.colour = colour
         self.canvas_size = image_dimensions
         self.image = Image.new("RGBA", self.canvas_size, self.bg)
         self.drawing = ImageDraw.Draw(self.image)
